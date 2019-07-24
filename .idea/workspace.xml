@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="Hm...1">
-      <change afterPath="$PROJECT_DIR$/files2.py" afterDir="false" />
+    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_task_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_task_11.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +52,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/file_task_12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="119">
+              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -119,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,12 +132,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -325,26 +327,33 @@
       <option name="project" value="LOCAL" />
       <updated>1563966126329</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Hm...1">
+      <created>1563967077977</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563967077977</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="25" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2761194" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.280597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925372" weight="0.32949308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49850747" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39976957" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32949308" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32949308" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50074625" side_tool="true" visible="true" weight="0.32949308" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50149256" side_tool="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32949308" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -365,14 +374,18 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/git2" />
+      <path value="$PROJECT_DIR$/python-train" />
+    </ignored-roots>
     <MESSAGE value="OHO!" />
     <MESSAGE value="Ищем..." />
     <MESSAGE value="Ищем...1" />
     <MESSAGE value="chars only" />
     <MESSAGE value="Hm..." />
-    <MESSAGE value="Hm...1" />
     <MESSAGE value="Hm...11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hm...11" />
+    <MESSAGE value="Hm...1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hm...1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/func1.py">
@@ -470,6 +483,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/dataset_3363_2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -479,8 +495,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/file_task_12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="119">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>
