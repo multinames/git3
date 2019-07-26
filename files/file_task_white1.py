@@ -10,19 +10,16 @@ d = []
 #print (len(line))
 while i < len(line):
 
-    #if line[i].isdigit() == True and line[i-1].isdigit() == True:
-     #       print (line[i-1]+line[i],end=' ')
-    #print(line[i-1], i, end=' ')
-    #print()
-    if line[i].isdigit() == True:
-            d.append (line[i])
-            print(line[i:j])
-
+    if line[i:j].isdigit() == True and line[i+1:j+1].isdigit() == True:
+            d.append (line[i]+line[i+1:j+1])
+            #print(line[i]+line[i+1:j+1])
+    elif line[i:j].isdigit() == True and line[i-1:j-1].isalpha() == True:
+        d.append(line[i])
+        print(line[i:j])
+    elif line[i:j].isalpha() == True:
+        #print (line[i:j].lower())
+        d.append(line[i:j])
     i += 1
     j += 1
-    #elif line[i].isdigit() == True:
-     #   print(line[i], end=' ')
-      #  n.add (line[i])
-       # i += 1
 
 print(d)
