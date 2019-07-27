@@ -20,6 +20,12 @@ for i in s.split():
 #for i in l.values():
 #	print (i)
 
-max_value = max(l.values())
-final_dict = {k: v for k, v in l.items() if v == max_value}
-print(final_dict)
+count=0
+for key,value in l.items() :
+    if value>count :
+        z=key
+        x=value
+        count=x
+    else :
+        continue
+print(z,x)
