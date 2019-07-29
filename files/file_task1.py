@@ -12,16 +12,16 @@ s =  ''
 n = ''
 #while i < len(line):
 for i in line:
-        if i.isdigit() == True:
+    if i.isdigit() == True:
             n+=i
             print (i,end=' ')
-            if
+
             #print(n)
             #s = ''
             #n = ''
         #elif i.isdigit() == True:
          #   n += i
           #  print(n)
-        else:
+    else:
             s+=i
 print(n)
