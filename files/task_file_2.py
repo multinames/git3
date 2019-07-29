@@ -12,3 +12,6 @@ for i in s.split():
 	else:
 		l[i] = 1
 print (l)
+
+#for i in sorted(l):
+#	print (i,l[i])
