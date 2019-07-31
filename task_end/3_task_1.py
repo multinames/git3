@@ -1,18 +1,20 @@
 n = int(input())
 i = 0
+j = 0
 b = dict()
 while i < n :
     a = [i for i in input().split(';')]
-    print (a[1])
-    if a[1] in b:
-        #b[0] = +a[0]
-        print (a[3])
-        print ('Yes')
-    else:
-        print('No')
-        #print(a)
-    b[a[0]] = a[1]
-    print(b)
+    while j < len(a):
+        #print(a[j])
+        if a[j].isalpha() == True:
+            print ('Команда :', a[j])
+            j += 1
+        else:
+
+            print(a[j])
+
+            j += 1
     i+=1
+
 
 
