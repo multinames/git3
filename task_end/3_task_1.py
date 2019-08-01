@@ -1,8 +1,8 @@
 n = int(input())
 i = 0
-j = 0
 b = dict()
 while i < n :
+    j = 0
     a = [i for i in input().split(';')]
     while j < len(a):
         #print(a[j])
