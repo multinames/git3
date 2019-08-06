@@ -2,6 +2,7 @@ n = int(input())
 i = 0
 b = dict()
 c = []
+ag = 0
 #Команда:Всего_игр Побед Ничьих Поражений Всего_очков
 #За победу команде начисляется 3 очка, за поражение — 0, за ничью — 1.
 while i < n :
@@ -11,6 +12,8 @@ while i < n :
         #print(a[j])
         if a[j].isalpha() == True:
             #print ('Команда :', a[j])
+            print()print(b.get(a[j].isalpha()))
+      #      if a[j].isalpha() ==
             b[a[j]] = [0,0,0,0,0]
             j += 1
         else:
