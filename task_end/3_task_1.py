@@ -9,12 +9,10 @@ while i < n :
     j = 0
     a = [i for i in input().split(';')]
     while j < len(a):
-        #print(a[j])
+        print(a[j])
         if a[j].isalpha() == True:
-            #print ('Команда :', a[j])
-            print()print(b.get(a[j].isalpha()))
-      #      if a[j].isalpha() ==
             b[a[j]] = [0,0,0,0,0]
+            #print(b)
             j += 1
         else:
 
