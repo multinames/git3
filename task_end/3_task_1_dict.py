@@ -9,8 +9,13 @@ while i < n :
     j = 0
     a = [i for i in input().split(';')]
     while j < len(a):
-        print(a[j])
+        #print(a[j])
         if a[j].isalpha() == True:
+            if a[j] in b:
+                print('Нашло',a[j])
+
+            #if a[j] == 'Спартак':
+             #   print('Попал Спартак')
             b[a[j]] = [0,0,0,0,0]
             #print(b)
             j += 1
