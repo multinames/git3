@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/files/dataset_3363_4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/files_for_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/task_file_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/taslk_file_234.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/dataset_3363_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/dataset_3363_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_file32.py" beforeDir="false" afterPath="$PROJECT_DIR$/files/task_file32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_file_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/files/task_file_3.py" afterDir="false" />
-    </list>
+    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,7 +364,28 @@
       <option name="project" value="LOCAL" />
       <updated>1564348768529</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="start html course">
+      <created>1567014214022</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1567014214022</updated>
+    </task>
+    <task id="LOCAL-00024" summary="html dir">
+      <created>1567014330486</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1567014330486</updated>
+    </task>
+    <task id="LOCAL-00025" summary="...">
+      <created>1567014401405</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1567014401405</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -423,7 +433,10 @@
     <MESSAGE value="hm...." />
     <MESSAGE value="dict" />
     <MESSAGE value="Finish 3 task file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finish 3 task file" />
+    <MESSAGE value="start html course" />
+    <MESSAGE value="html dir" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="masterDetails">
     <states>
