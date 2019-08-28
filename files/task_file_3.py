@@ -2,8 +2,8 @@ l = []
 with  open ('dataset_3363_4.txt') as inf:
    for a in inf :
     a = a.strip().split(';')
-    l +=a
-#print(l)
+    l += a
+print(l)
 count, s = 0, 0
 for i in l:
     if i.isdigit() == True:
