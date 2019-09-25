@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="" />
+    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/files/dataset_3363_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/dataset_3363_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/dataset_3363_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/dataset_3363_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/file1_r.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file1_r.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/file1_w.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file1_w.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/file_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file_task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/file_task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file_task_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/file_task_white1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file_task_white1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/files_for_.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_for_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/files_for_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_for_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/files_for_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_for_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/files_number_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_number_two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/files_task_1_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_task_1_n.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/outfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/outfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/outputData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/outputData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/reply_3363_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/reply_3363_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task_file32.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task_file_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task_file_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task_file_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task_file_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task_file_31.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task_files34.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_files34.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/task_files_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_files_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/taslk_file_234.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/taslk_file_234.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/test" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/func1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/func2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/func3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/func4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/func5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/func_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/func/func_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/dataset_3378_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/dataset_3378_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/dataset_3378_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/dataset_3378_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/mod_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/mod_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/mod_task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/mod_task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/mod_task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/mod_task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/my_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/my_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/task_mod_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/task_mod_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module/task_mod_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/task_mod_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task_end/3_task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/task_end/3_task_12.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -471,7 +513,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569420298365</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="File for other tests">
+      <created>1569420583156</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1569420583156</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Python &amp; Other">
+      <created>1569420591430</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1569420591430</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Python &amp; Other">
+      <created>1569420667967</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1569420667967</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -502,7 +565,6 @@
       <path value="$PROJECT_DIR$/git2" />
       <path value="$PROJECT_DIR$/python-train" />
     </ignored-roots>
-    <MESSAGE value="edit1" />
     <MESSAGE value="before people" />
     <MESSAGE value="+people" />
     <MESSAGE value="End" />
@@ -526,6 +588,7 @@
     <MESSAGE value="WebDriverWait and expected_conditions module" />
     <MESSAGE value="del files" />
     <MESSAGE value="PlayOff" />
+    <MESSAGE value="File for other tests" />
     <MESSAGE value="Python &amp; Other" />
     <option name="LAST_COMMIT_MESSAGE" value="Python &amp; Other" />
   </component>
