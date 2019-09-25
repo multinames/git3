@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="" />
+    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="homework from previous module">
+      <change afterPath="$PROJECT_DIR$/html/css1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/css2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/task1/list1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/task1/Хьюстон.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/task31/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2task_4input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset_3363_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/outfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/files/outfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/snipet.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/snipet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mnogo_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,15 +37,24 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1OYn2HXyISSRVb5NjZSGcXsxmAy" />
+  <component name="ProjectId" id="1Q8kSVygbkNRBCYGvyrdwQnvUSC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/html/task2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tmp\git-python\html\task2" />
+      <recent name="D:\tmp\git-python\html" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\tmp\git-python\html\task1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,8 +68,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.task_files34">
-    <configuration name="file_task1" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.file_task_12">
+    <configuration name="file1_r" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +77,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/file_task1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file1_r.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_task1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_task_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_task_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_file32" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="files2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,95 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/task_file32.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_file_21" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/task_file_21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_file_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/task_file_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_file_31" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/task_file_31.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_files34" type="PythonConfigurationType" factoryName="Python">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/task_files34.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,10 +176,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task_file32" />
-        <item itemvalue="Python.task_file_3" />
-        <item itemvalue="Python.task_file_31" />
-        <item itemvalue="Python.task_file_21" />
+        <item itemvalue="Python.files2" />
+        <item itemvalue="Python.file_task_11" />
+        <item itemvalue="Python.file_task1" />
+        <item itemvalue="Python.file1_r" />
       </list>
     </recent_temporary>
   </component>
@@ -266,126 +250,210 @@
       <option name="project" value="LOCAL" />
       <updated>1563967077977</updated>
     </task>
-    <task id="LOCAL-00009" summary="final home">
-      <created>1563997618343</created>
+    <task id="LOCAL-00009" summary="sasasas">
+      <created>1567157053703</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1563997618343</updated>
+      <updated>1567157053703</updated>
     </task>
-    <task id="LOCAL-00010" summary="sort">
-      <created>1564174190987</created>
+    <task id="LOCAL-00010" summary="folder for task1">
+      <created>1567520381396</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1564174190987</updated>
+      <updated>1567520381396</updated>
     </task>
-    <task id="LOCAL-00011" summary="min">
-      <created>1564235301877</created>
+    <task id="LOCAL-00011" summary="images">
+      <created>1567520658312</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1564235301877</updated>
+      <updated>1567520658312</updated>
     </task>
-    <task id="LOCAL-00012" summary="other">
-      <created>1564235349507</created>
+    <task id="LOCAL-00012" summary="edit1">
+      <created>1567596751949</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1564235349507</updated>
+      <updated>1567596751949</updated>
     </task>
-    <task id="LOCAL-00013" summary="final">
-      <created>1564235613985</created>
+    <task id="LOCAL-00013" summary="before people">
+      <created>1567611942373</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1564235613986</updated>
+      <updated>1567611942373</updated>
     </task>
-    <task id="LOCAL-00014" summary="dict">
-      <created>1564243520493</created>
+    <task id="LOCAL-00014" summary="+people">
+      <created>1567697108243</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1564243520493</updated>
+      <updated>1567697108243</updated>
     </task>
-    <task id="LOCAL-00015" summary="more...">
-      <created>1564247939041</created>
+    <task id="LOCAL-00015" summary="End">
+      <created>1567785630404</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1564247939041</updated>
+      <updated>1567785630404</updated>
     </task>
-    <task id="LOCAL-00016" summary="average...">
-      <created>1564249448440</created>
+    <task id="LOCAL-00016" summary="Finish">
+      <created>1568112337538</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1564249448440</updated>
+      <updated>1568112337538</updated>
     </task>
-    <task id="LOCAL-00017" summary="average...">
-      <created>1564251831039</created>
+    <task id="LOCAL-00017" summary="task2">
+      <created>1568112933227</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1564251831039</updated>
+      <updated>1568112933228</updated>
     </task>
-    <task id="LOCAL-00018" summary="average...">
-      <created>1564258455541</created>
+    <task id="LOCAL-00018" summary="task2 css">
+      <created>1568114883932</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1564258455541</updated>
+      <updated>1568114883932</updated>
     </task>
-    <task id="LOCAL-00019" summary="dict">
-      <created>1564259565078</created>
+    <task id="LOCAL-00019" summary="task2 font-family">
+      <created>1568115951718</created>
       <option name="number" value="00019" />
       <option name="presentableId" value="LOCAL-00019" />
       <option name="project" value="LOCAL" />
-      <updated>1564259565078</updated>
+      <updated>1568115951718</updated>
     </task>
-    <task id="LOCAL-00020" summary="hm....">
-      <created>1564345530818</created>
+    <task id="LOCAL-00020" summary="task2 font-family">
+      <created>1568115961759</created>
       <option name="number" value="00020" />
       <option name="presentableId" value="LOCAL-00020" />
       <option name="project" value="LOCAL" />
-      <updated>1564345530819</updated>
+      <updated>1568115961759</updated>
     </task>
-    <task id="LOCAL-00021" summary="dict">
-      <created>1564346523787</created>
+    <task id="LOCAL-00021" summary="task2 italic">
+      <created>1568130517175</created>
       <option name="number" value="00021" />
       <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1564346523787</updated>
+      <updated>1568130517175</updated>
     </task>
-    <task id="LOCAL-00022" summary="Finish 3 task file">
-      <created>1564348768529</created>
+    <task id="LOCAL-00022" summary="task2 italic2">
+      <created>1568130872680</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1564348768529</updated>
+      <updated>1568130872680</updated>
     </task>
-    <task id="LOCAL-00023" summary="start html course">
-      <created>1567014214022</created>
+    <task id="LOCAL-00023" summary="task2 css italic">
+      <created>1568130888581</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1567014214022</updated>
+      <updated>1568130888581</updated>
     </task>
-    <task id="LOCAL-00024" summary="html dir">
-      <created>1567014330486</created>
+    <task id="LOCAL-00024" summary="task2 css finish">
+      <created>1568209916196</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1567014330486</updated>
+      <updated>1568209916196</updated>
     </task>
-    <task id="LOCAL-00025" summary="...">
-      <created>1567014401405</created>
+    <task id="LOCAL-00025" summary="task2 html finish">
+      <created>1568209930853</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1567014401405</updated>
+      <updated>1568209930853</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="task2 img">
+      <created>1568209971411</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1568209971411</updated>
+    </task>
+    <task id="LOCAL-00027" summary="task3 html">
+      <created>1568303113066</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1568303113066</updated>
+    </task>
+    <task id="LOCAL-00028" summary="homework from previous module">
+      <created>1569410890105</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1569410890105</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Code from lecture">
+      <created>1569412015775</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1569412015776</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Use WebDriverWait and expected_conditions">
+      <created>1569412204325</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1569412204325</updated>
+    </task>
+    <task id="LOCAL-00031" summary="The task of booking a house">
+      <created>1569412258975</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1569412258975</updated>
+    </task>
+    <task id="LOCAL-00032" summary="The task of booking a house">
+      <created>1569412325098</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1569412325098</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Use WebDriverWait and expected_condition module">
+      <created>1569412427425</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1569412427425</updated>
+    </task>
+    <task id="LOCAL-00034" summary="homework from previous module">
+      <created>1569412481768</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1569412481768</updated>
+    </task>
+    <task id="LOCAL-00035" summary="The task of booking a house $100">
+      <created>1569412562390</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1569412562390</updated>
+    </task>
+    <task id="LOCAL-00036" summary="homework from previous module">
+      <created>1569413530519</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1569413530519</updated>
+    </task>
+    <task id="LOCAL-00037" summary="WebDriverWait and expected_conditions module">
+      <created>1569413636155</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1569413636155</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -416,27 +484,32 @@
       <path value="$PROJECT_DIR$/git2" />
       <path value="$PROJECT_DIR$/python-train" />
     </ignored-roots>
-    <MESSAGE value="OHO!" />
-    <MESSAGE value="Ищем..." />
-    <MESSAGE value="Ищем...1" />
-    <MESSAGE value="chars only" />
-    <MESSAGE value="Hm..." />
-    <MESSAGE value="Hm...11" />
-    <MESSAGE value="Hm...1" />
-    <MESSAGE value="final home" />
-    <MESSAGE value="sort" />
-    <MESSAGE value="min" />
-    <MESSAGE value="other" />
-    <MESSAGE value="final" />
-    <MESSAGE value="more..." />
-    <MESSAGE value="average..." />
-    <MESSAGE value="hm...." />
-    <MESSAGE value="dict" />
-    <MESSAGE value="Finish 3 task file" />
-    <MESSAGE value="start html course" />
-    <MESSAGE value="html dir" />
-    <MESSAGE value="..." />
-    <option name="LAST_COMMIT_MESSAGE" value="..." />
+    <MESSAGE value="sasasas" />
+    <MESSAGE value="folder for task1" />
+    <MESSAGE value="images" />
+    <MESSAGE value="edit1" />
+    <MESSAGE value="before people" />
+    <MESSAGE value="+people" />
+    <MESSAGE value="End" />
+    <MESSAGE value="Finish" />
+    <MESSAGE value="task2" />
+    <MESSAGE value="task2 css" />
+    <MESSAGE value="task2 font-family" />
+    <MESSAGE value="task2 italic" />
+    <MESSAGE value="task2 italic2" />
+    <MESSAGE value="task2 css italic" />
+    <MESSAGE value="task2 css finish" />
+    <MESSAGE value="task2 html finish" />
+    <MESSAGE value="task2 img" />
+    <MESSAGE value="task3 html" />
+    <MESSAGE value="Code from lecture" />
+    <MESSAGE value="Use WebDriverWait and expected_conditions" />
+    <MESSAGE value="The task of booking a house" />
+    <MESSAGE value="Use WebDriverWait and expected_condition module" />
+    <MESSAGE value="The task of booking a house $100" />
+    <MESSAGE value="homework from previous module" />
+    <MESSAGE value="WebDriverWait and expected_conditions module" />
+    <option name="LAST_COMMIT_MESSAGE" value="WebDriverWait and expected_conditions module" />
   </component>
   <component name="masterDetails">
     <states>
