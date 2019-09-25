@@ -1,2 +1,2 @@
 # git3 
-Auto tests Selenium and Python in stepik_tests folder
+Auto tests Selenium and Python in <a href="https://github.com/multinames/git3/tree/master/stepik_tests">stepik_tests</a> folder
