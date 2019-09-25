@@ -1,3 +1,3 @@
 # git3
 Python Stepik
-Автоматизация тестирования с помощью Selenium и Python
+Auto tests Selenium and Python in stepik_tests folder
