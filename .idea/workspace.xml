@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/task_end/3_task_1_dict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_2.html" beforeDir="false" />
-    </list>
+    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -461,7 +457,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569420181281</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="PlayOff">
+      <created>1569420265793</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1569420265793</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Python &amp; Other">
+      <created>1569420298365</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1569420298365</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -492,7 +502,6 @@
       <path value="$PROJECT_DIR$/git2" />
       <path value="$PROJECT_DIR$/python-train" />
     </ignored-roots>
-    <MESSAGE value="images" />
     <MESSAGE value="edit1" />
     <MESSAGE value="before people" />
     <MESSAGE value="+people" />
@@ -517,7 +526,8 @@
     <MESSAGE value="WebDriverWait and expected_conditions module" />
     <MESSAGE value="del files" />
     <MESSAGE value="PlayOff" />
-    <option name="LAST_COMMIT_MESSAGE" value="PlayOff" />
+    <MESSAGE value="Python &amp; Other" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python &amp; Other" />
   </component>
   <component name="masterDetails">
     <states>
