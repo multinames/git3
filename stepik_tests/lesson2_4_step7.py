@@ -18,4 +18,3 @@ assert "successful" in message.text
 
 time.sleep(5)
 browser.quit()
-
