@@ -1,0 +1,32 @@
+.container
+  {
+  margin:0 15% 0 15%;
+  width:70%;
+  }
+
+h1
+  {
+  font-family: Arial;
+  margin-bottom: 1.5em;
+  font-size: 32px;
+  }
+
+h2, h3
+  {
+  font-family: Arial;
+  margin-bottom: 1.5em;
+  }
+
+table, th, td
+ {
+ border: 1px solid black;
+ }
+
+ .desc_img {
+	font-style: italic ;
+}
+
+ .rightimg  {
+    float: right; /* Выравнивание по правому краю  */
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+   }
