@@ -2,47 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/files/dataset_3363_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/dataset_3363_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/dataset_3363_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/dataset_3363_4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/file1_r.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file1_r.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/file1_w.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file1_w.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/file_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/file_task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file_task_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/file_task_white1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/file_task_white1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/files_for_.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_for_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/files_for_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_for_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/files_for_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_for_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/files_number_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_number_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/files_task_1_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/files_task_1_n.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/outfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/outfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/outputData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/outputData.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/reply_3363_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/reply_3363_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_file32.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_file_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_file_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_file_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_file_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_file_31.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_file_31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_files34.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_files34.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/task_files_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/task_files_23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/taslk_file_234.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/taslk_file_234.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/test" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/files/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/func1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/func2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/func3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/func4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/func5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/func_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func/func_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/func/func_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/dataset_3378_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/dataset_3378_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/dataset_3378_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/dataset_3378_3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/mod_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/mod_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/mod_task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/mod_task_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/mod_task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/mod_task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/my_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/my_solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/task_mod_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/task_mod_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module/task_mod_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/module/task_mod_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task_end/3_task_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_start/task_end/3_task_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/test1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/test1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/3.2/test_abs_project2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik_tests/3.2/step8_32.py" beforeDir="false" afterPath="$PROJECT_DIR$/stepik_tests/3.2/step8_32.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,12 +37,13 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\tmp\git-python\python_start" />
+      <recent name="D:\tmp\git-python\html\task1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\tmp\git-python\html\task2" />
       <recent name="D:\tmp\git-python\html" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\tmp\git-python\html\task1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -93,70 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.file_task_12">
-    <configuration name="file1_r" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file1_r.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_task1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_task_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_task_11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in test_abs_project2.py">
     <configuration name="file_task_12" type="PythonConfigurationType" factoryName="Python">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="files2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="step9_1_32" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepik_tests/3.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files2.py" />
+      <option name="SCRIPT_NAME" value="D:\tmp\git-python\stepik_tests\3.2\step9_32.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,12 +101,90 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="step9_32 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepik_tests/3.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stepik_tests/3.2/step9_32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step9_32" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepik_tests/3.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\tmp\git-python\stepik_tests\3.2\step9l_32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_abs_project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepik_tests/3.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stepik_tests/3.2/test_abs_project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_abs_project2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stepik_tests/3.2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/stepik_tests/3.2/test_abs_project2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.files2" />
-        <item itemvalue="Python.file_task_11" />
-        <item itemvalue="Python.file_task1" />
-        <item itemvalue="Python.file1_r" />
+        <item itemvalue="Python tests.Unittests in test_abs_project2.py" />
+        <item itemvalue="Python.test_abs_project" />
+        <item itemvalue="Python.step9_32 (1)" />
+        <item itemvalue="Python.step9_1_32" />
+        <item itemvalue="Python.step9_32" />
       </list>
     </recent_temporary>
   </component>
@@ -218,27 +198,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563449767849</updated>
-    </task>
-    <task id="LOCAL-00001" summary="OHO!">
-      <created>1563458308711</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1563458308711</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Ищем...">
-      <created>1563796110566</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1563796110566</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Ищем...1">
-      <created>1563802227886</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1563802227886</updated>
     </task>
     <task id="LOCAL-00004" summary="chars only">
       <created>1563810927150</created>
@@ -534,7 +493,56 @@
       <option name="project" value="LOCAL" />
       <updated>1569420667967</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Python &amp; Other">
+      <created>1569420900365</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1569420900365</updated>
+    </task>
+    <task id="LOCAL-00047" summary="HTML course">
+      <created>1569421020822</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1569421020822</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Task 8">
+      <created>1569494557131</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1569494557132</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Task 9 assert">
+      <created>1569498469019</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1569498469019</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Task 9 lecture">
+      <created>1569498485773</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1569498485784</updated>
+    </task>
+    <task id="LOCAL-00051" summary="all sripts">
+      <created>1569498788939</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1569498788939</updated>
+    </task>
+    <task id="LOCAL-00052" summary="task 13">
+      <created>1569511713227</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1569511713228</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -565,12 +573,6 @@
       <path value="$PROJECT_DIR$/git2" />
       <path value="$PROJECT_DIR$/python-train" />
     </ignored-roots>
-    <MESSAGE value="before people" />
-    <MESSAGE value="+people" />
-    <MESSAGE value="End" />
-    <MESSAGE value="Finish" />
-    <MESSAGE value="task2" />
-    <MESSAGE value="task2 css" />
     <MESSAGE value="task2 font-family" />
     <MESSAGE value="task2 italic" />
     <MESSAGE value="task2 italic2" />
@@ -590,7 +592,13 @@
     <MESSAGE value="PlayOff" />
     <MESSAGE value="File for other tests" />
     <MESSAGE value="Python &amp; Other" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python &amp; Other" />
+    <MESSAGE value="HTML course" />
+    <MESSAGE value="Task 8" />
+    <MESSAGE value="Task 9 assert" />
+    <MESSAGE value="Task 9 lecture" />
+    <MESSAGE value="all sripts" />
+    <MESSAGE value="task 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 13" />
   </component>
   <component name="masterDetails">
     <states>
