@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/test1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stepik_tests/3.2/test_abs_project2.py" afterDir="false" />
+    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="Test html+js">
+      <change afterPath="$PROJECT_DIR$/stepik_tests/_sel.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stepik_tests/3.2/step8_32.py" beforeDir="false" afterPath="$PROJECT_DIR$/stepik_tests/3.2/step8_32.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,27 +195,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563449767849</updated>
-    </task>
-    <task id="LOCAL-00004" summary="chars only">
-      <created>1563810927150</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1563810927150</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Hm...">
-      <created>1563876838873</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1563876838874</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Hm...1">
-      <created>1563892597115</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1563892597115</updated>
     </task>
     <task id="LOCAL-00007" summary="Hm...11">
       <created>1563966126329</created>
@@ -542,7 +518,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569511713228</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Test js">
+      <created>1569853072001</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1569853072003</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Test html+js">
+      <created>1569853093011</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1569853093011</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Two tests from unittest">
+      <created>1569940774327</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1569940774328</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -573,9 +570,6 @@
       <path value="$PROJECT_DIR$/git2" />
       <path value="$PROJECT_DIR$/python-train" />
     </ignored-roots>
-    <MESSAGE value="task2 font-family" />
-    <MESSAGE value="task2 italic" />
-    <MESSAGE value="task2 italic2" />
     <MESSAGE value="task2 css italic" />
     <MESSAGE value="task2 css finish" />
     <MESSAGE value="task2 html finish" />
@@ -598,7 +592,10 @@
     <MESSAGE value="Task 9 lecture" />
     <MESSAGE value="all sripts" />
     <MESSAGE value="task 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 13" />
+    <MESSAGE value="Test js" />
+    <MESSAGE value="Test html+js" />
+    <MESSAGE value="Two tests from unittest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two tests from unittest" />
   </component>
   <component name="masterDetails">
     <states>
