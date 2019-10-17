@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="Test html+js">
-      <change afterPath="$PROJECT_DIR$/stepik_tests/_sel.txt" afterDir="false" />
+    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="Tasks for 3.4">
+      <change afterPath="$PROJECT_DIR$/stepik_tests/2.4/task24_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/2.4/task24_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/2.4/task24_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/3.6/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/3.6/test_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/3.6/test_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/3.6/test_rerun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stepik_tests/test_conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTest3.6/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyTest3.6/test_items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik_tests/3.6/task36_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/stepik_tests/3.6/task36_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik_tests/3.6/task36_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/stepik_tests/3.6/task36_11.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +40,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/html/task2" />
@@ -195,62 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563449767849</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Hm...11">
-      <created>1563966126329</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1563966126329</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Hm...1">
-      <created>1563967077977</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1563967077977</updated>
-    </task>
-    <task id="LOCAL-00009" summary="sasasas">
-      <created>1567157053703</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1567157053703</updated>
-    </task>
-    <task id="LOCAL-00010" summary="folder for task1">
-      <created>1567520381396</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1567520381396</updated>
-    </task>
-    <task id="LOCAL-00011" summary="images">
-      <created>1567520658312</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1567520658312</updated>
-    </task>
-    <task id="LOCAL-00012" summary="edit1">
-      <created>1567596751949</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1567596751949</updated>
-    </task>
-    <task id="LOCAL-00013" summary="before people">
-      <created>1567611942373</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1567611942373</updated>
-    </task>
-    <task id="LOCAL-00014" summary="+people">
-      <created>1567697108243</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1567697108243</updated>
     </task>
     <task id="LOCAL-00015" summary="End">
       <created>1567785630404</created>
@@ -539,7 +496,63 @@
       <option name="project" value="LOCAL" />
       <updated>1569940774328</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Test html+js">
+      <created>1570115093102</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1570115093103</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Tasks for 3.5">
+      <created>1570116533732</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1570116533732</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Tasks for 3.4 - 3.5">
+      <created>1570200974499</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1570200974500</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Tasks for 3.4">
+      <created>1570723176187</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1570723176188</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Tasks for 3.6">
+      <created>1570723235217</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1570723235217</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Stepik Tests">
+      <created>1571225280405</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1571225280406</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Task for 3.6 language">
+      <created>1571225331270</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1571225331270</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Tasks language for step 3.6">
+      <created>1571314992807</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1571314992808</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -566,17 +579,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/git2" />
       <path value="$PROJECT_DIR$/python-train" />
     </ignored-roots>
-    <MESSAGE value="task2 css italic" />
-    <MESSAGE value="task2 css finish" />
-    <MESSAGE value="task2 html finish" />
-    <MESSAGE value="task2 img" />
-    <MESSAGE value="task3 html" />
-    <MESSAGE value="Code from lecture" />
-    <MESSAGE value="Use WebDriverWait and expected_conditions" />
     <MESSAGE value="The task of booking a house" />
     <MESSAGE value="Use WebDriverWait and expected_condition module" />
     <MESSAGE value="The task of booking a house $100" />
@@ -593,9 +600,16 @@
     <MESSAGE value="all sripts" />
     <MESSAGE value="task 13" />
     <MESSAGE value="Test js" />
-    <MESSAGE value="Test html+js" />
     <MESSAGE value="Two tests from unittest" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two tests from unittest" />
+    <MESSAGE value="Test html+js" />
+    <MESSAGE value="Tasks for 3.5" />
+    <MESSAGE value="Tasks for 3.4 - 3.5" />
+    <MESSAGE value="Tasks for 3.4" />
+    <MESSAGE value="Tasks for 3.6" />
+    <MESSAGE value="Stepik Tests" />
+    <MESSAGE value="Task for 3.6 language" />
+    <MESSAGE value="Tasks language for step 3.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tasks language for step 3.6" />
   </component>
   <component name="masterDetails">
     <states>
