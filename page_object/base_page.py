@@ -4,4 +4,4 @@
     self.url = url
     
     def open(self):
-        self.browser.get(link.url)
+        self.browser.get(self.url)
