@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="Tasks for 3.4">
-      <change afterPath="$PROJECT_DIR$/python_basis/1.2/task1.2_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_basis/1.3/simple1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_users/Smith2141/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_users/Smith2141/test_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_users/kiras96/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_users/kiras96/test_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_users/testUser346/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_users/testUser346/test_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_object/base_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page_object/main_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basis/1.2/task_1.2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basis/1.2/task_1.2_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basis/1.3/task1.3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basis/1.3/task1.3_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +57,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.my_class1">
+  <component name="RunManager" selected="Python.base_page">
+    <configuration name="base_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page_object" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page_object/base_page.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="class_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,34 +184,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task1.3_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basis/1.3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basis/1.3/task1.3_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.base_page" />
         <item itemvalue="Python.my_class1" />
         <item itemvalue="Python.class_count" />
         <item itemvalue="Python.my_class" />
         <item itemvalue="Python.simple1" />
-        <item itemvalue="Python.task1.3_3" />
       </list>
     </recent_temporary>
   </component>
