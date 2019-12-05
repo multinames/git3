@@ -1,7 +1,7 @@
 ﻿from selenium.common.exceptions import NoSuchElementException
 
 class BasePage():
-    def __init__(self, browser, url, timeout=10):    #метод (конструктор __init__)
+    def __init__(self, browser, url, timeout=5):    #метод (конструктор __init__)
         self.browser = browser           #экземпляр драйвера
         self.url = url                   #URL 
         self.browser.implicitly_wait(timeout) #неявное ожидание
