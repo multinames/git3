@@ -22,3 +22,16 @@ myplayers.append(player2)
 
 json.dump(myplayers, myfile)
 myfile.close()
+
+#--------------------------------------------------LOAD by Json
+
+myfile = open(filename, mode='r', encoding="latin1")
+jason_data = json.load(myfile)
+
+for user in jason_data:
+    print("Player name is: " +str(user["PlayerName"]))
+    print("Player Score is: " +str(user["Score"]))
+    print("Player Award N1: " + str(user["awards"][0]))
+    print("Player Award N2: " + str(user["awards"][1]))
+    print("Player Award N3: " + str(user["awards"][2]))
+    print("-------------------------------------------")

@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="Tasks for 3.4" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="0aef5ffa-80b4-4d87-b66e-15075ad61865" name="Default Changelist" comment="Tasks for 3.4">
+      <change afterPath="$PROJECT_DIR$/xmljson/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xmljson/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/xmljson/test1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -41,61 +49,7 @@
       <recent name="D:\tmp\git-python\html" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.base_page">
-    <configuration name="base_page" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page_object" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page_object/base_page.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="class_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="git-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basis/1.5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basis/1.5/class_count.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test1 (1)">
     <configuration name="file_task_12" type="PythonConfigurationType" factoryName="Python">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="json_les" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basis/1.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basis/1.5/my_class.py" />
+      <option name="SCRIPT_NAME" value="D:\git\python\git3\json\les_jason.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_class1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="les_jason" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basis/1.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basis/1.5/my_class1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/les_jason.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simple1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +121,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basis/1.3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/xmljson" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basis/1.3/simple1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xmljson/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/json" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/json" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,13 +178,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.base_page" />
-        <item itemvalue="Python.my_class1" />
-        <item itemvalue="Python.class_count" />
-        <item itemvalue="Python.my_class" />
-        <item itemvalue="Python.simple1" />
+        <item itemvalue="Python.test1 (1)" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.les_jason" />
+        <item itemvalue="Python.json_les" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\GENERAL\AppData\Roaming\Subversion</configuration>
@@ -200,13 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563449767849</updated>
-    </task>
-    <task id="LOCAL-00025" summary="task2 html finish">
-      <created>1568209930853</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1568209930853</updated>
     </task>
     <task id="LOCAL-00026" summary="task2 img">
       <created>1568209971411</created>
@@ -544,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572350855895</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Jason tests">
+      <created>1577738301262</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1577738301262</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -579,7 +587,6 @@
       <path value="$PROJECT_DIR$/git2" />
       <path value="$PROJECT_DIR$/python-train" />
     </ignored-roots>
-    <MESSAGE value="Python &amp; Other" />
     <MESSAGE value="HTML course" />
     <MESSAGE value="Task 8" />
     <MESSAGE value="Task 9 assert" />
@@ -604,7 +611,34 @@
     <MESSAGE value="Tasks for 1.3" />
     <MESSAGE value="Class expamples" />
     <MESSAGE value="add __ini__" />
-    <option name="LAST_COMMIT_MESSAGE" value="add __ini__" />
+    <MESSAGE value="Jason tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jason tests" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="626" y="124" key="CommitChangelistDialog2" timestamp="1577738300738">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="626" y="124" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1577738300738" />
+    <state width="1362" height="258" key="GridCell.Tab.0.bottom" timestamp="1577738782865">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="258" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1577738782865" />
+    <state width="1362" height="258" key="GridCell.Tab.0.center" timestamp="1577738782864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="258" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1577738782864" />
+    <state width="1362" height="258" key="GridCell.Tab.0.left" timestamp="1577738782864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="258" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1577738782864" />
+    <state width="1362" height="258" key="GridCell.Tab.0.right" timestamp="1577738782865">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1362" height="258" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1577738782865" />
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2" timestamp="1577738303837">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="260" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1577738303837" />
   </component>
   <component name="masterDetails">
     <states>
