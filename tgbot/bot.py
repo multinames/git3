@@ -9,7 +9,7 @@ def echo(update: Update, context: CallbackContext) -> None:
 
 
 def main() -> None:
-    updater = Updater("6869080710:AAGs04KERlsIUwZRB8F81ob_A5axPfNNmWE")
+    updater = Updater("6868927671:AAG0DbZENsgd45ku_UragX8943NoVnPvH4s")
 
     updater.dispatcher.add_handler(TypeHandler(Update, echo))
 
